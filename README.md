@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahshid--ahmadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahshid-ahmadi/)
-[![Email](https://img.shields.io/badge/Email-mhshd.ahmadi@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhshd.ahmadi@outlook.com)
+[![Email](https://img.shields.io/badge/Email-ahmadi.mhshd@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadi.mhshd@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MoonGirl99-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoonGirl99)
 [![Location](https://img.shields.io/badge/📍_Passau-Germany-0369A1?style=for-the-badge&logoColor=white)](#)
 
